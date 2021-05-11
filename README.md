@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Stage4000
+- 👋 Hi, I’m <b>@Stage4000</b>
 - 👀 Web Developer
-- 💞️ Stage4000.com
-- 📫 Stage4000#4099 Discord
+- 💞️ <b>Stage4000.com</b>
+- 📫 <b><u>Stage4000#4099</b></u> Discord
 
 <!---
 Stage4000/Stage4000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
