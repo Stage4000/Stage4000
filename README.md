@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <b>@Stage4000</b>
+- 👋 I’m <b>@Stage4000</b>
 - 👀 Web Developer
 - 💞️ <b>Stage4000.com</b>
 - 📫 <b><u>Stage4000#4099</b></u> Discord
