@@ -20,6 +20,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-Coming Soon
+<img src=https://github.com/Stage4000/Stage4000/blob/31f0ec310b031de11f6166008c5d6bd3d9fcd783/discord-brands.png>Stage4000#4000
 </p>
 
