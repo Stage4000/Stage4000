@@ -1,11 +1,25 @@
-- 👋 I’m <b>@Stage4000</b>
-- 👀 Web Developer
-- 💞️ <b>Stage4000.com</b>
-- 📫 <b><u>Stage4000#4099</b></u> Discord
+<h2> Hey there! Stage4000. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-![Discord](https://img.shields.io/discord/909988699012493332?color=blue&label=Miscreant%20Discord&logo=discord&logoColor=white&style=for-the-badge)
-[![Website](https://img.shields.io/static/v1?label=Website&message=https%3A%2F%2Fstage4000.com&color=green&logo=skyliner&logoColor=white&style=for-the-badge)](https://stage4000.com)
-<!---
-Stage4000/Stage4000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 👨‍🎓 &nbsp; I’m currently learning C#.
+- 🤖 &nbsp; Experienced Discord bot developer.
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Windows & Linux System Admin
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🛢 &nbsp; MySQL | Firebase 
+- 🔧 &nbsp; Git | NodeJS
+
+<br>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+Coming Soon
+</p>
+
