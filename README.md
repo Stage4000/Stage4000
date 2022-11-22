@@ -20,6 +20,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<img src=https://github.com/Stage4000/Stage4000/blob/6635f759844f5f13aa3c659770204348d551ef9a/envelope-open-text-solid%20(1).png>Stage4000#4000
+<img src=https://github.com/Stage4000/Stage4000/blob/0f3af1f9e855664b0b4b20c010a80f95b6abb1c3/envelope-open-text-solid.png>Stage4000#4000
 </p>
 
