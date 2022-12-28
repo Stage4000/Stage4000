@@ -13,13 +13,8 @@
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Git | NodeJS
 
-<br>
-
-
-
 <h3> 🤝🏻 Connect with Me </h3>
-
 <p align="center">
-<img src=https://github.com/Stage4000/Stage4000/blob/f3486d97ce75763ee67ed7d56cc271882913554c/discord-logo-white.png> &nbsp; Stage4000#3644
+<img width=15px height=15px src=https://github.com/Stage4000/Stage4000/blob/f3486d97ce75763ee67ed7d56cc271882913554c/discord-logo-white.png> &nbsp<b><font size=4>Stage4000#3644</font></b>
 </p>
 
