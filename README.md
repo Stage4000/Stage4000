@@ -19,4 +19,4 @@
 </p>
 <br><br>
 
-![Stage4000's github stats](https://github-readme-stats.vercel.app/api?username=stage4000)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=dark&locale=en&count_private=true" alt="stage4000" />
