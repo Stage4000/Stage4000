@@ -19,4 +19,4 @@
 </p>
 <br><br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=dark&locale=en&count_private=true" alt="stage4000" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars" alt="stage4000" />
