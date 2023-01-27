@@ -5,11 +5,12 @@
 
 - 👨‍🎓 &nbsp; I’m currently learning C#.
 - 🤖 &nbsp; Experienced Discord bot developer.
+- 🌐 &nbsp; Over a decade of website development experience with a specialty in PHP.
 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Windows & Linux System Admin
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; PHP | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Git | NodeJS
 
