@@ -19,6 +19,6 @@
 <img width=15px height=15px src=https://github.com/Stage4000/Stage4000/blob/f3486d97ce75763ee67ed7d56cc271882913554c/discord-logo-white.png> &nbsp<b><font size=4>Stage4000#4000 / Stage4000</font></b>
 
 <br><br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars" alt="stage4000" />
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars" alt="stage4000" />
+
