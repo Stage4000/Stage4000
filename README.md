@@ -20,4 +20,4 @@
 </p>
 <br><br>
 
-<img width="466px" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars" alt="stage4000" />
+<center><img width="466px" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars" alt="stage4000" /></center>
