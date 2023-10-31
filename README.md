@@ -20,4 +20,7 @@
 </p>
 <br><br>
 
-<center><img width="466px" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars&hide_rank=true&include_all_commits=true" alt="stage4000" /></center>
+<center><img width="466px" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars&hide_rank=true&include_all_commits=true" alt="stage4000" />
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stage4000)](https://github.com/anuraghazra/github-readme-stats)
+</center>
