@@ -20,7 +20,5 @@
 </p>
 <br><br>
 
-<center><img width="466px" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars&hide_rank=true&include_all_commits=true" alt="stage4000" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stage4000&theme=transparent">
+<center><img width="466px" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars&hide_rank=true&include_all_commits=true" alt="stage4000" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stage4000&theme=transparent">
 </center>
