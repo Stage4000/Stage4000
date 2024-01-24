@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 👨‍🎓 &nbsp; I’m currently learning C#.
+- 👨‍🎓 &nbsp; I’m currently making a drag and drop website builder.
 - 🤖 &nbsp; Experienced Discord bot developer.
 - 🌐 &nbsp; Over a decade of website development experience with a specialty in PHP.
 
