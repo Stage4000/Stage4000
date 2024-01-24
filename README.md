@@ -12,7 +12,7 @@
 - 💻 &nbsp; Windows & Linux System Admin
 - 🌐 &nbsp; PHP | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Git | NodeJS
+- 🔧 &nbsp; Git | NodeJS | VB | C#
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
