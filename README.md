@@ -20,4 +20,4 @@
 </p>
 <br><br>
 
-<img width="450px" src="https://github-readme-stats.vercel.app/api?username=stage4000&show_icons=true&theme=transparent&locale=en&count_private=true&hide=stars&hide_rank=true&include_all_commits=true" alt="stage4000" /> <img src="https://discord.c99.nl/widget/theme-3/269680982230171658.png">
+<img src="https://discord.c99.nl/widget/theme-3/269680982230171658.png">
